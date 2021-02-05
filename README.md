@@ -4,7 +4,7 @@ A curated list of corruption robustness papers.
 
 ### 2021
 
-- SelfNorm and CrossNorm for Out-of-Distribution Robustness.
+- SelfNorm and CrossNorm for Out-of-Distribution Robustness. [[paper]](https://arxiv.org/abs/2102.02811)
   - Zhiqiang Tang, Yunhe Gao, Yi Zhu, Zhi Zhang, Mu Li, Dimitris Metaxas.
   - Digest: Unlike most previous works, this paper presents two normalization methods, SelfNorm and CrossNorm, to promote OOD generalization. SelfNorm uses attention to recalibrate statistics (channel-wise mean and variance), while CrossNorm exchanges the statistics between feature maps. 
 
